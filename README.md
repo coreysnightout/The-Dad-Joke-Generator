@@ -1,3 +1,5 @@
+![screen shot 2018-01-22 at 10 10 03 pm](https://user-images.githubusercontent.com/25654531/35260559-1b2e8536-ffc1-11e7-8c4b-3683013237ec.png)
+
 # _DAD-JOKE-GENERATOR_
 
 ## CONTRIBUTORS: **Daniel Lopez, Corey Redding, Calvin Cushman, Justin Gomez**
